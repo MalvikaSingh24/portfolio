@@ -7,6 +7,14 @@
         {
             "id":"projects",
             "data":["Credivia","Vulcan"]
+        },
+        {
+            "id" : "locations",
+            "data" : ["Bengaluru","New York","Pune","Amsterdam"]
+        },
+        {
+            "id" : "project Types",
+            "data" : ["Investment Banking","Loan Request Application","Migration"]
         }
     ]
 }
