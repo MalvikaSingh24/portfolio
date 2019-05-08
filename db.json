@@ -1,0 +1,12 @@
+{
+    "portfolio":[
+        {
+            "id":"skills",
+            "data":["react","javascript","html"]
+        },
+        {
+            "id":"projects",
+            "data":["Credivia","Vulcan",]
+        }
+    ]
+}
